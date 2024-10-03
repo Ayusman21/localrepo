@@ -1,3 +1,9 @@
 # First-Git
 Author - Ayusman Mishra(OUTR)
-
+Workflow
+GITHUB REPOSITORY
+CLONE
+CHANGES
+ADD
+COMMIT
+PUSH
